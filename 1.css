@@ -1,0 +1,31 @@
+body {
+    background-color: #333;
+  }
+  
+  h1 {
+    color:blanchedalmond;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  p {
+    margin-left: 13%; margin-right: 13%;  
+    color: azure;  
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    text-align: justify; text-align: center;
+  }
+
+  pre {
+      margin-left: 13%; margin-right: 13%;
+      color: beige;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 14px;
+  }
+  pre {
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
